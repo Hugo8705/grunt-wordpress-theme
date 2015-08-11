@@ -1,0 +1,7 @@
+{
+  "name": "Wordpress starter kit",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
