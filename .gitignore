@@ -7,7 +7,7 @@ bower_components/
 # Ignore the fonts/js/css that gets built
 public/assets/fonts/
 public/assets/javascript/frontend.js
-public/assets/stylesheets/style.css
+public/assets/stylesheets/main.css
 
 # Misc files types
 *.DS_Store
