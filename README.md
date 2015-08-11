@@ -16,6 +16,8 @@ The LESS files are exported and minified in public/assets/stylesheets
 
 You have to copy eventual fonts manually in public/assets/fonts
 
+Some basics Wodpress template files are included. JS and CSS are included via <i>functions.php</i>
+
 Image processing via the imagemin grunt plugin is currently commented the Gruntfile.js because I usually optimize my images manually.
 
 ## To do
