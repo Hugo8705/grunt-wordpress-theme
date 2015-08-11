@@ -1,5 +1,5 @@
 # grunt-wordpress-theme
-Wordpress theme with Grunt and Bower
+Wordpress theme with Grunt and Bower. Can actually be used also for HTML/CSS and templating.
 
 ## Installation
 
