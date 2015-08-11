@@ -3,7 +3,7 @@ Wordpress theme with Grunt and Bower
 
 ## Installation
 
-1. Download the repo
+1. Clone the repo
 2. <i>cd</i> to the folder
 3. Run the <i>bower install</i> command to install the bower packages (Bootstrap, jQuery and Fot Awesome)
 4. Run the <i>grunt install</i> command to install necessary Grunt packages
