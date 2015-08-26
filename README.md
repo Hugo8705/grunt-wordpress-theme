@@ -6,7 +6,7 @@ Wordpress theme with Grunt and Bower. Can actually be used also for HTML/CSS and
 1. Clone the repo
 2. <i>cd</i> to the folder
 3. Run the <i>bower install</i> command to install the bower packages (Bootstrap, jQuery and Fot Awesome)
-4. Run <i>bower list</i> to check for updated packages. Then run <i>bower-update</i> to update to the lastest version if necessary
+4. Run <i>bower list</i> to check for updated packages. Then run <i>bower update</i> to update to the lastest version if necessary
 5. Run the <i>npm install</i> command to install Grunt and necessary packages
 
 ## Using
